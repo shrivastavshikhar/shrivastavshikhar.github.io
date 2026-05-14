@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Patents
-description: List of Issued Patents for innovative solutions built in industrial capacity.  
+description: List of Issued Patents for innovative solutions built in industrial capacity.
 nav: true
 nav_order: 2
 ---
