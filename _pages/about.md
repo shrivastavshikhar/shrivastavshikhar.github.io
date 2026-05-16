@@ -27,7 +27,7 @@ latest_posts:
 
 Graduate student at CS, UT Austin (2025 - present).
 
-From 2010-2024, I was working in the software industry in e-commerce and telecom domains, building intelligent scalable software systems.
+From 2010 onwards, I have been working in the software industry in e-commerce and telecom domains, building intelligent scalable software systems.
 
 <!-- BTech, CS, IIT Dhanbad, India (2010). -->
 
